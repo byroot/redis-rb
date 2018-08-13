@@ -1,3 +1,3 @@
 class Redis
-  VERSION = "4.0.2"
+  VERSION = "3.2.99"
 end
